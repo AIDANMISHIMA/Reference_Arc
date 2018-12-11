@@ -1,3 +1,4 @@
+PImage back;
 PImage rocket;
 
 void setup() {
